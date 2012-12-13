@@ -10,3 +10,5 @@ project depends upon several addons
 - ofxOpenCV
 - ofxVectorMath
 - ofxXmlSettings
+
+mac bin (10.7+) at [http://ignation.net/ofxCVExperiment001/ofxCVExperiment001.zip](http://ignation.net/ofxCVExperiment001/ofxCVExperiment001.zip)
